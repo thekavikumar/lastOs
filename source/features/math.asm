@@ -1,9 +1,3 @@
-; ==================================================================
-; MikeOS -- The Mike Operating System kernel
-; Copyright (C) 2006 - 2021 MikeOS Developers -- see doc/LICENSE.TXT
-;
-; MATH ROUTINES
-; ==================================================================
 
 ; ------------------------------------------------------------------
 ; os_seed_random -- Seed the random number generator based on clock

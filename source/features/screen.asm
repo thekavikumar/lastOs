@@ -1,7 +1,3 @@
-; ==================================================================
-; MikeOS -- The Mike Operating System kernel
-; Copyright (C) 2006 - 2021 MikeOS Developers -- see doc/LICENSE.TXT
-;
 ; SCREEN HANDLING SYSTEM CALLS
 ; ==================================================================
 

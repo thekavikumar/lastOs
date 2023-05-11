@@ -12,7 +12,7 @@
 	CPU 386				; pusha offsets depends on a 386 or better
 					; FS and GS require a 386 or better
 
-	%DEFINE MIKEOS_VER '4.7.0'	; OS version number
+	%DEFINE MIKEOS_VER '1.0.0'	; OS version number
 	%DEFINE MIKEOS_API_VER 18	; API version for programs to check
 
 

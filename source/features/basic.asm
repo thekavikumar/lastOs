@@ -1,6 +1,5 @@
 ; ==================================================================
-; MikeOS -- The Mike Operating System kernel
-; Copyright (C) 2006 - 2022 MikeOS Developers -- see doc/LICENSE.TXT
+; LastOS -- The Mike Operating System kernel
 ;
 ; BASIC CODE INTERPRETER (4.5)
 ; ==================================================================
