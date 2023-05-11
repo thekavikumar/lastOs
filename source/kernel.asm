@@ -1,6 +1,5 @@
 ; ==================================================================
-; MikeOS -- The Mike Operating System kernel
-; Copyright (C) 2006 - 2022 MikeOS Developers -- see doc/LICENSE.TXT
+; LastOS -- The Last Operating System kernel
 ;
 ; This is loaded from the drive by BOOTLOAD.BIN, as KERNEL.BIN.
 ; First we have the system call vectors, which start at a static point
